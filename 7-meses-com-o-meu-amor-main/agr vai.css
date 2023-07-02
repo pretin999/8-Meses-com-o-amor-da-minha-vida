@@ -1,0 +1,37 @@
+ body {
+  background-image: url("IMG_20230117_122310_890.jpg");
+  background-color: lightpink;
+}
+
+ h1 {
+ text-align: center;
+ color: #DF73FF;	
+ }
+ 
+
+ h2 {
+   text-align: center; 
+    color: #FF69B4;
+ }
+
+  #k {
+   text-align: center right; 
+   color:   ;
+  }
+
+  a {
+    color:  #DA70D6;
+  }
+
+  .d{
+    float: right;
+  }
+
+  
+  .e{
+    float: center left right;
+  }
+
+  img{
+    float: center;
+  }
